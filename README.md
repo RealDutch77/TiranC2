@@ -15,7 +15,7 @@ Tiran C2 is an simple C2 framework written in python, react and golang
 
 # Installation of gui
 1. open up Server/UI/tiran in an new terminal
-2. `npm i @headlessui/react"`
+2. `npm i @headlessui/react`
 3. `npm i @heroicons/react`
 4. `npm run start`
 
@@ -37,4 +37,24 @@ there arent many commands due the fact that this program is very recent, i apolo
 | Agent | download FIle | Downloads file from targets drive, only specify the file not include the dir |
 | Agent | selfkill | Kills current process using taskkill |
 
-#Photos
+# Photos
+> StartUp
+<img src="https://raw.githubusercontent.com/RealDutch77/TiranC2/main/Images/StartUp.png" width="400" height="280">
+
+> Compiled
+<img src="https://raw.githubusercontent.com/RealDutch77/TiranC2/main/Images/Compiled.png" width="400" height="280">
+
+> Empty Dashboard
+<img src="https://raw.githubusercontent.com/RealDutch77/TiranC2/main/Images/Empty Dashboard.png" width="400" height="280">
+
+> Dashboard
+<img src="https://raw.githubusercontent.com/RealDutch77/TiranC2/main/Images/Dashboard.png" width="400" height="280">
+
+> Shell
+<img src="https://raw.githubusercontent.com/RealDutch77/TiranC2/main/Images/Shell.png" width="400" height="280">
+
+> Command
+<img src="https://raw.githubusercontent.com/RealDutch77/TiranC2/main/Images/Command.png" width="400" height="280">
+
+> Loot
+<img src="https://raw.githubusercontent.com/RealDutch77/TiranC2/main/Images/Loot.png" width="400" height="280">
