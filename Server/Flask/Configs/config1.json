@@ -1,0 +1,25 @@
+{
+	
+    "Settings": [{
+	"configName": "Config1",
+        "Server": [{
+            "host": "127.0.0.1",
+            "port": "1236",
+            "settings": [{
+                "lootdir": [{
+                    "note": "if you decide to add an extra folder, make sure the add an / if there is no one on the end",
+                    "stock": "../UI/tiran/public/loot/",
+                    "custum": "../UI/tiran/public/loot/"
+			
+                }]
+            }]
+    
+        }],
+        "UI": [{
+            "host": "127.0.0.1",
+            "port": "1235"
+        }]
+    
+    }]
+
+}
